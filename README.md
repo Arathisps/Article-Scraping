@@ -52,6 +52,7 @@ This project shows how I approach a problem with limited time:
 - keep things extensible
 - avoid over engineering
 
-More features can be added easily on top of this structure.
+Note: This project is a learning implementation and can be extended further.
+
 
 
