@@ -1,10 +1,3 @@
-# Beyondchats assignment
-
-This project of  BeyondChats take-home assignment.  
-Could'nt complete full as time constraints.
-
-The main focus was on building a clear flow and structure rather than finishing every edge case.
-
 
 - **Laravel backend**
   - Article model, migration and CRUD APIs
