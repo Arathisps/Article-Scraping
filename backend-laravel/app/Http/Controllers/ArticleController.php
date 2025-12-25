@@ -8,7 +8,8 @@ use Illuminate\Http\Request;
 class ArticleController extends Controller
 {
     public function index() {
-        return Article::latest()->get();
+        return Article::latest()->limit(20)->get();
+
     }
 
     public function show(\) {
