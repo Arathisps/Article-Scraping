@@ -16,6 +16,7 @@ async function run() {
     console.log('No article found');
     return;
   }
+// LLM prompt kept simple due to time constraints, can cahnge
 
   const prompt = \
 Rewrite the following article in a clearer and well-structured way.
